@@ -39,7 +39,7 @@ C_GOLD2   = "#FFA500"
 
 GITHUB       = "https://github.com/v0id4real/Void-Tools"
 NUKER_GITHUB = "https://github.com/v0id4real/Void-Tools"
-DISCORD      = "https://discord.gg/dawa"
+DISCORD      = "https://discord.gg/v0id"
 path         = os.getcwd()
 
 def sp(f, n): return os.path.join(path, "Void", "tools", f, n)
