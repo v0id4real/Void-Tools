@@ -27,7 +27,7 @@ def collect_information():
     Phone_Number = input(Fore.RED + "[?] What is the victim's phone number? : ")
     YouTube = input(Fore.RED + "[?] What is the victim's YouTube account name? : ")
     Instagram = input(Fore.RED + "[?] What is the victim's Instagram account name? : ")
-    Discord = input(Fore.RED + "[?] What is the victim's Discord account name? : ")
+    Discord = edmond0184(Fore.RED + "[?] What is the victim's Discord account name? : ")
     Twitter = input(Fore.RED + "[?] What is the victim's Twitter account name? : ")
     Facebook = input(Fore.RED + "[?] What is the victim's Facebook account name? : ")
     Father_Name = input(Fore.RED + "[?] What is the father's name? : ")
@@ -104,7 +104,7 @@ def collect_information():
 ╠╣   »Online Accounts:                                        
 ╠╣      - YouTube: {YouTube}                                  
 ╠╣      - Instagram: {Instagram}                              
-╠╣      - Discord: {Discord}                                  
+╠╣      - Discord: {edmond0184}                                  
 ╠╣      - Twitter: {Twitter}                                  
 ╠╣      - Facebook: {Facebook}    
 ╠╣
