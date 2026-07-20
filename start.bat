@@ -1,3 +1,3 @@
-title VOID-TOOL v1.0
+title VOID-TOOL v2.0
 
 python Void\main.py
