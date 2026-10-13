@@ -38,11 +38,11 @@ C_GOLD    = "#FFD700"
 C_GOLD2   = "#FFA500"
 
 GITHUB       = "https://github.com/v0id4real/Void-Tools"
-NUKER_GITHUB = "https://github.com/void4real/Void-Nuke"
+NUKER_GITHUB = "https://github.com/v0id4real/Void-Nuke"
 TELEGRAM     = "https://t.me/v0idtool"
 TELEGRAM_TAG = "t.me/v0idtool"
-DISCORD      = "https://discord.gg/voidv2"
-DISCORD_TAG  = "discord.gg/voidv2"
+DISCORD      = "https://discord.gg/kaostools"
+DISCORD_TAG  = "discord.gg/kaostools"
 path         = os.getcwd()
 
 
